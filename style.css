@@ -84,3 +84,9 @@ nav h4{
 #page1-content h1 span{
     font-family: rejoy;
 }
+
+#page2{
+    height: 100vh;
+    width: 100%;
+    background-color: beige;
+}
